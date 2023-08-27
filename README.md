@@ -1,2 +1,4 @@
-#### Hc32f460kct6 Marlin
+# Anycubic Kobra Plus - Marlin Firmware
+
+The mainboard on the Anycubic Kobra Plus must be modified to work with alternative firmware. 
 
